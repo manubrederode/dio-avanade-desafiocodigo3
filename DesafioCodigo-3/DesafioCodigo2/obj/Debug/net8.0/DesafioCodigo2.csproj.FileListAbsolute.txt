@@ -1,0 +1,14 @@
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\bin\Debug\net8.0\DesafioCodigo2.exe
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\bin\Debug\net8.0\DesafioCodigo2.deps.json
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\bin\Debug\net8.0\DesafioCodigo2.runtimeconfig.json
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\bin\Debug\net8.0\DesafioCodigo2.dll
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\bin\Debug\net8.0\DesafioCodigo2.pdb
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.AssemblyInfoInputs.cache
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.AssemblyInfo.cs
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.dll
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\refint\DesafioCodigo2.dll
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.pdb
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\DesafioCodigo2.genruntimeconfig.cache
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\Projetos\dio-avanade-dotnet\DesafioCodigo-3\DesafioCodigo2\obj\Debug\net8.0\ref\DesafioCodigo2.dll
